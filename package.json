@@ -1,0 +1,26 @@
+{
+  "name": "Travelapp2-BE",
+  "version": "1.0.0",
+  "description": "Node.js backend for wanderlust travel app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamsesGB/Travelapp2-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamsesGB/Travelapp2-BE/issues"
+  },
+  "homepage": "https://github.com/RamsesGB/Travelapp2-BE#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
